@@ -3,4 +3,4 @@
 
 # Video Test
 
-[video]https://www.youtube.com/watch?v=D7kAEnM0rDY{.youtube}
+[video](https://www.youtube.com/watch?v=D7kAEnM0rDY){.youtube}
