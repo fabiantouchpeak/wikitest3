@@ -1,4 +1,4 @@
-<!-- TITLE: File Test 1 -->
+<!-- TITLE: FILE TEST 1 -->
 <!-- SUBTITLE: A quick summary of File Test 1 -->
 
 # File Test
