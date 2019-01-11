@@ -1,5 +1,7 @@
-![Dancing Cat](/uploads/dancing-cat.gif "Dancing Cat")<!-- TITLE: Home -->
+!<!-- TITLE: WIKI TEST-->
 <!-- SUBTITLE: A quick summary of Home -->
 
 
-# Header
+#Testing Wiki Features
+
+[Dancing Cat](/uploads/dancing-cat.gif "Dancing Cat")
