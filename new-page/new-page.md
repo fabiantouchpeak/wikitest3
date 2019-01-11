@@ -8,7 +8,7 @@
 </head>
 
 
-<div id="tester" style="width:600px;height:250px;"></div>
+<div id="tester" style="width:1000px;height:500px;"></div>
 <script>
 	TESTER = document.getElementById('tester');
 	Plotly.plot( TESTER, [{
