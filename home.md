@@ -4,4 +4,4 @@
 
 #Testing Wiki Features
 
-([Dancing Cat](/uploads/dancing-cat.gif "Dancing Cat")
+![Dancing Cat](/uploads/dancing-cat.gif "Dancing Cat")
