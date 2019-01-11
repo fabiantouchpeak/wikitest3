@@ -1,4 +1,4 @@
-<!-- TITLE: Video Test 1 -->
+<!-- TITLE: VIDEO TEST 1 -->
 <!-- SUBTITLE: A quick summary of Video Test 1 -->
 
 # Video Test
