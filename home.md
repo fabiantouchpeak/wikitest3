@@ -16,4 +16,7 @@
 	x: [1, 2, 3, 4, 5],
 	y: [1, 2, 4, 8, 16] }], {
 	margin: { t: 0 } } );
-</script>
+</script>]
+[Docker Cheatsheet 08 09 2016 0](/uploads/docker-cheatsheet-08-09-2016-0.pdf "Docker Cheatsheet 08 09 2016 0")
+[video](https://www.youtube.com/watch?v=D7kAEnM0rDY){.youtube}
+
