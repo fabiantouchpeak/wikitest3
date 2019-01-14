@@ -17,5 +17,5 @@
 	y: [1, 2, 4, 8, 16] }], {
 	margin: { t: 0 } } );
 </script>]
-[video](https://www.youtube.com/watch?v=D7kAEnM0rDY){.youtube}
+
 
