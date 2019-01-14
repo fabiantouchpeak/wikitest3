@@ -2,8 +2,7 @@
 <!-- SUBTITLE: A quick summary of Home -->
 
 
-#Testing Wiki Features
-
+#Testing Animated GIF
 ![Dancing Cat](/uploads/dancing-cat.gif "Dancing Cat")
 
 
