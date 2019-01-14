@@ -1,4 +1,4 @@
-<!-- TITLE: WIKI TEST-->
+<!-- TITLE: TESTING ANIMATED GIF-->
 <!-- SUBTITLE: A quick summary of Home -->
 
 
